@@ -101,8 +101,14 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black_2X.png) left top repeat;
-	padding:280px 0;
+	background:
+				linear-gradient(
+      		    rgba(0, 0, 0, 0.45), 
+      			rgba(0, 0, 0, 0.45)
+    			),
+    			url(../img/stacker.jpg) no-repeat center;
+	background-size: cover;
+	padding:260px 0;
 }
 .logo{
 	width:130px;
