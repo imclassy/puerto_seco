@@ -106,15 +106,20 @@ p{
       		    rgba(0, 0, 0, 0.45), 
       			rgba(0, 0, 0, 0.45)
     			),
-    			url(../img/stacker.jpg) no-repeat center;
+    			url(../img/stacker_2.jpg) no-repeat center;
 	background-size: cover;
-	padding:260px 0;
+	/*padding:260px 0;*/
+	height: 84vh;
 }
 .logo{
 	width:130px;
 	margin:0 auto 35px;
 }
 /* Este es el estilo de la primera parte "Puerto Seco de Santa Marta" */
+.header .container{
+	position: relative;
+	top: 50%;
+}
 .header h1{
 	font-family: 'Montserrat',sans-serif;
 	font-size:50px;
