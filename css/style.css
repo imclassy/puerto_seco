@@ -103,13 +103,13 @@ p{
 	text-align:center;
 	background:
 				linear-gradient(
-      		    rgba(0, 0, 0, 0.45), 
+      		    rgba(0, 0, 0, 0.45),
       			rgba(0, 0, 0, 0.45)
     			),
     			url(../img/stacker_2.jpg) no-repeat center;
 	background-size: cover;
 	/*padding:260px 0;*/
-	height: 84vh;
+	height: 89vh;
 }
 .logo{
 	width:130px;
