@@ -208,7 +208,7 @@ color: #fff;
 }
 .main-nav li a{
 	display:inline-block;
-	color:#020A37;
+	color:#091247;
   /*color:#222222*/
 	text-transform:uppercase;
 	font-family: 'Montserrat', sans-serif;
@@ -237,11 +237,11 @@ color: #fff;
 /* Services
 ---------------------------------*/
 .main-section h2{
-	color: #020A37;
+	color: #091247;
 }
 
 .main-section h3{
-	color: #020A37;
+	color: #091247;
 }
 
 .service-list{
@@ -257,7 +257,8 @@ color: #fff;
 	font-style:normal;
 	font-size:38px;
 	display:block;
-	color:#222;
+	color: #091247;
+	/*color:#222;*/
 	font-family: 'FontAwesome';
 	line-height:38px;
 }
@@ -770,7 +771,7 @@ border: 2px solid #fff;
 
 .footer{
 	/*background:url(../img/bg.jpg) left top repeat;*/
-	background: #020A37;
+	background: #071942;
 	padding:35px 0 35px;
 }
 .footer-logo{
